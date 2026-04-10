@@ -1,61 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\projects\\messanger\\messanger\\",
+  "WorkspaceRootPath": "C:\\Messanger-on-C-.-University-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\dtos\\sendmessageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\dtos\\sendmessageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:dtos\\sendmessageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\dtos\\sendmessagerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\dtos\\sendmessagerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:dtos\\sendmessagerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\dtos\\messageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\dtos\\messageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:dtos\\messageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\projects\\messanger\\messanger\\messanger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|c:\\messanger-on-c-.-university-project\\messanger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3ACC9089-28FF-E366-8C72-5875A7034C9C}|messanger.csproj|solutionrelative:messanger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -66,28 +70,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA4wCEAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T04:24:55.255Z",
+              "WhenOpened": "2026-04-10T05:02:01.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:24:55.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\Services\\UserService.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\Services\\UserService.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\Services\\UserService.cs",
               "RelativeToolTip": "Services\\UserService.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAwDkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,11 +115,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\Services\\IUserService.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "Services\\IUserService.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\Services\\IUserService.cs",
               "RelativeToolTip": "Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,11 +127,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\DTOs\\LoginDto.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\DTOs\\LoginDto.cs",
               "RelativeToolTip": "DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\DTOs\\RegisterDto.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\DTOs\\RegisterDto.cs",
               "RelativeToolTip": "DTOs\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,11 +151,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MessagesController.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\Controllers\\MessagesController.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\Controllers\\MessagesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MessagesController.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\Controllers\\MessagesController.cs",
               "RelativeToolTip": "Controllers\\MessagesController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,11 +164,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SendMessageResponseDto.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\DTOs\\SendMessageResponseDto.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\DTOs\\SendMessageResponseDto.cs",
               "RelativeDocumentMoniker": "DTOs\\SendMessageResponseDto.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\DTOs\\SendMessageResponseDto.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\DTOs\\SendMessageResponseDto.cs",
               "RelativeToolTip": "DTOs\\SendMessageResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,11 +176,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SendMessageRequestDto.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\DTOs\\SendMessageRequestDto.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\DTOs\\SendMessageRequestDto.cs",
               "RelativeDocumentMoniker": "DTOs\\SendMessageRequestDto.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\DTOs\\SendMessageRequestDto.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\DTOs\\SendMessageRequestDto.cs",
               "RelativeToolTip": "DTOs\\SendMessageRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,11 +188,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\Models\\User.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -180,11 +200,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EncryptionService.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\Services\\EncryptionService.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\Services\\EncryptionService.cs",
               "RelativeDocumentMoniker": "Services\\EncryptionService.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\Services\\EncryptionService.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\Services\\EncryptionService.cs",
               "RelativeToolTip": "Services\\EncryptionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -192,11 +212,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MessageResponseDto.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\DTOs\\MessageResponseDto.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\DTOs\\MessageResponseDto.cs",
               "RelativeDocumentMoniker": "DTOs\\MessageResponseDto.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\DTOs\\MessageResponseDto.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\DTOs\\MessageResponseDto.cs",
               "RelativeToolTip": "DTOs\\MessageResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -204,11 +224,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAmwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,11 +236,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Message.cs",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\Models\\Message.cs",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\Models\\Message.cs",
               "RelativeDocumentMoniker": "Models\\Message.cs",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\Models\\Message.cs",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\Models\\Message.cs",
               "RelativeToolTip": "Models\\Message.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,15 +248,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "messanger.csproj",
-              "DocumentMoniker": "C:\\projects\\messanger\\messanger\\messanger.csproj",
+              "DocumentMoniker": "C:\\Messanger-on-C-.-University-project\\messanger.csproj",
               "RelativeDocumentMoniker": "messanger.csproj",
-              "ToolTip": "C:\\projects\\messanger\\messanger\\messanger.csproj",
+              "ToolTip": "C:\\Messanger-on-C-.-University-project\\messanger.csproj",
               "RelativeToolTip": "messanger.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-09T08:34:38.053Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }
